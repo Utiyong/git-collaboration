@@ -11,5 +11,13 @@
   "description": "",
   "dependencies": {
     "joi": "^18.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Utiyong/git-collaboration.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Utiyong/git-collaboration/issues"
+  },
+  "homepage": "https://github.com/Utiyong/git-collaboration#readme"
 }
