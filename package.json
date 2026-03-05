@@ -1,0 +1,23 @@
+{
+  "name": "git_asssingment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "joi": "^18.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Utiyong/git-collaboration.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Utiyong/git-collaboration/issues"
+  },
+  "homepage": "https://github.com/Utiyong/git-collaboration#readme"
+}
